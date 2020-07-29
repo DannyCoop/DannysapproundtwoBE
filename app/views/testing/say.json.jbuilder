@@ -1,0 +1,1 @@
+json.return_string @message
